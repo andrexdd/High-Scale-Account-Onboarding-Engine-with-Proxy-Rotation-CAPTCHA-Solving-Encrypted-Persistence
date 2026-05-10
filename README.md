@@ -65,7 +65,7 @@ high_scale_onboarding/
 
 1. Clone or extract the project:
 ```bash
-cd insta\ bot
+cd folder
 ```
 
 2. Install dependencies:
